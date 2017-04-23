@@ -120,7 +120,7 @@ var CONFIG = {
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=config.js.map
 
 /***/ }),
@@ -162,7 +162,7 @@ EntityService = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=entity.service.js.map
 
 /***/ }),
@@ -214,7 +214,7 @@ var _a;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=exception.service.js.map
 
 /***/ }),
@@ -272,7 +272,7 @@ var _a, _b;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=message.service.js.map
 
 /***/ }),
@@ -304,7 +304,7 @@ UserProfileService = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=user-profile.service.js.map
 
 /***/ }),
@@ -604,7 +604,7 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_platform_browser_dyna
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=index.js.map
 
 /***/ }),
@@ -1032,7 +1032,7 @@ var _a, _b;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=auth-guard.service.js.map
 
 /***/ }),
@@ -1072,7 +1072,7 @@ var CanDeactivateGuard = (function () {
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=can-deactivate-guard.service.js.map
 
 /***/ }),
@@ -1153,7 +1153,7 @@ CoreModule = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=core.module.js.map
 
 /***/ }),
@@ -1261,7 +1261,7 @@ var _a;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=modal.component.js.map
 
 /***/ }),
@@ -1314,7 +1314,7 @@ ModalModule = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=modal.module.js.map
 
 /***/ }),
@@ -1384,7 +1384,7 @@ var _a, _b;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=nav.component.js.map
 
 /***/ }),
@@ -1427,7 +1427,7 @@ can be found in the LICENSE file at http://bit.ly/l1cense
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=rxjs-extensions.js.map
 
 /***/ }),
@@ -1480,7 +1480,7 @@ var _a;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=spinner.component.js.map
 
 /***/ }),
@@ -1533,7 +1533,7 @@ SpinnerModule = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=spinner.module.js.map
 
 /***/ }),
@@ -1610,7 +1610,7 @@ var _a;
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=toast.component.js.map
 
 /***/ }),
@@ -1663,7 +1663,7 @@ ToastModule = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=toast.module.js.map
 
 /***/ }),
@@ -1816,13 +1816,8 @@ SharedModule = __decorate([
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return environment; });
-// The file contents for the current environment will overwrite these during build.
-// The build system defaults to the dev environment which uses `environment.ts`, but if you do
-// `ng build --env=prod` then `environment.prod.ts` will be used instead.
-// The list of which env maps to which file can be found in `.angular-cli.json`.
-// The file contents for the current environment will overwrite these during build.
 var environment = {
-    production: false
+    production: true
 };
 //# sourceMappingURL=environment.js.map
 
@@ -1945,14 +1940,14 @@ module.exports = "<h3>Add User Dialog</h3>\r\n<form #form=\"ngForm\" (ngSubmit)=
 /***/ 327:
 /***/ (function(module, exports) {
 
-module.exports = "<footer id=\"footer\">\r\n    <div class=\"footerTop center-align\"><img src=\"../../assets/images/tawlogo.png\" alt=\"\"></div>\r\n    <div class=\"footerBottom center-align\"><span>footer content</span></div>\r\n</footer>"
+module.exports = "<footer id=\"footer\">\r\n    <div class=\"footerTop center-align\"><img src=\"/tell-and-watch/assets/images/tawlogo.png\" alt=\"\"></div>\r\n    <div class=\"footerBottom center-align\"><span>footer content</span></div>\r\n</footer>"
 
 /***/ }),
 
 /***/ 328:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"section search-header z-depth-4\">\r\n    <div class=\"container\">\r\n        <div class=\"row\">\r\n            <div class=\"col x3 s2\">\r\n                <div class=\"logo-wrapper\">\r\n                    <img class=\"logo-img\" src=\"../../assets/images/tawheaderlogo.png\" alt=\"tell and watch logo\" />\r\n                </div>\r\n            </div>\r\n            <div class=\"col x7 s7\">\r\n                <div class=\"logo-wrapper\">\r\n                    <h3 class=\"search-msg\">Listening your voice...</h3>\r\n                </div>\r\n            </div>\r\n            <div class=\"col x2 s2\">\r\n                <div class=\"logo-wrapper\">\r\n                    <i class=\"material-icons dp48\">mic</i> \r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>"
+module.exports = "<div class=\"section search-header z-depth-4\">\r\n    <div class=\"container\">\r\n        <div class=\"row\">\r\n            <div class=\"col x3 s2\">\r\n                <div class=\"logo-wrapper\">\r\n                    <img class=\"logo-img\" src=\"/tell-and-watch/assets/images/tawheaderlogo.png\" alt=\"tell and watch logo\" />\r\n                </div>\r\n            </div>\r\n            <div class=\"col x7 s7\">\r\n                <div class=\"logo-wrapper\">\r\n                    <h3 class=\"search-msg\">Listening your voice...</h3>\r\n                </div>\r\n            </div>\r\n            <div class=\"col x2 s2\">\r\n                <div class=\"logo-wrapper\">\r\n                    <i class=\"material-icons dp48\">mic</i> \r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>"
 
 /***/ }),
 
@@ -2026,7 +2021,7 @@ ToastService = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=toast.service.js.map
 
 /***/ }),
@@ -2045,7 +2040,7 @@ function throwIfAlreadyLoaded(parentModule, moduleName) {
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=module-import-guard.js.map
 
 /***/ }),
@@ -2107,7 +2102,7 @@ SpinnerService = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=spinner.service.js.map
 
 /***/ }),
@@ -2138,7 +2133,7 @@ ModalService = __decorate([
 Copyright 2016 JohnPapa.net, LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
 can be found in the LICENSE file at http://bit.ly/l1cense
-*/ 
+*/
 //# sourceMappingURL=modal.service.js.map
 
 /***/ })
